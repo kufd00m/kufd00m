@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: about
 title: Get in touch with me
 ---
+---
 
-This is an example page!
 
-Actually, it has the same layout of a post...
+
+### [Email](mailto:kufd00m@gmx.com) (It might take a few days for me to notice your mail)
+
+### [Discord](https://discord.com/users/498173152262881301https:/) (I should respond in 24 hours.)
