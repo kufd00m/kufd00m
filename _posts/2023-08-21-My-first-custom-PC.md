@@ -55,4 +55,4 @@ I ran these benchmarks at night and this is how loud the PC got under max load.
 
 ---
 
-This is by far my longest blog post ever, even surpassing my school presentations and I would greatly appreciate if you could share it because it will really help me with indexing my page on google, right now it only shows when you search up kufd00m.xyz and back then when it popped up when i searched kufd00m it was the 3rd. Google is really a pain to deal with so please, help me out a little.
+This is by far my longest blog post ever and I would greatly appreciate if you could share it because it will really help me with indexing my page on google, right now it only shows when you search up kufd00m.xyz and back then when it popped up when i searched kufd00m it was the 3rd. Google is really a pain to deal with so please, help me out a little.
