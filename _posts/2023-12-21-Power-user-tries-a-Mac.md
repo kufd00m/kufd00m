@@ -1,9 +1,9 @@
 ---
 layout: post
 ---
-It's been about 4 months since I got my first real Mac, a 2014 MacBook Air with an i7, 8gb of ram and 128gb of storage! It's relatively low spec for todays age but it's totally usable for office work, watching media or writing blogs like this one.
+It's been about 4 months since I got my first real Mac, a 2014 MacBook Air with an i7, 8gb of ram and 128gb of storage! It's relatively low spec for todays age but it's totally usable for office work, watching videos or writing blogs like this one.
 
-I got the idea of buying one when I got some money from a broken bone that I got a year ago (I love my insurance) and didn't know what to do with the money. I usually can't save up money because I spend it after a few weeks and so I got to thinking.
+I got the idea of buying one when I recieved indemnity for a broken bone that I got a year ago and didn't know what to do with the money. I usually can't save up money because I would drink through it in a few weeks and so I got to thinking.
 
 Originally I thought about getting a thinkpad and putting Linux on it but then I saw the prices of old MacBooks and found a good one.
 
