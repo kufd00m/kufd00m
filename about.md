@@ -4,14 +4,14 @@ title: About
 ---
 ---
 
-So you wanna know something about me, there's not much. I'm just a Czech kid wanting to achieve his dreams.
+Not much to see here, I'm boring af.
 
-I like mountainbiking, cars, trucks etc. However out of all of them my love for trucks is the strongest. My love for them probably started when I was 4 and my dad let me in his volvo fm. Fast foward 11 years, few thousand kilometers driven with my dad, several hundered hours in Euro Truck Simulator 2 and here I am.
+I don't have much time for hobbies anymore however from time to time I boot up OSU!Taiko, at the time of writing this my rank should be about #11k for global and #45 in Czechia.
 
-I'm not the best at learning but there are few subjects that I like, and English is one of them. Since I want to become truck driver one day I thought that it would be nice to have an English certificate, possibly making it easier for me to get a job in foreign countries. And that's exactly what I did! On may 26th I succeeded on my Cambridge English exams, granting me a B1 certificate. I'm planning on doing a B2 exam as well in the future, abecause from what I was told it's a lot harder and I like challenges.
+As for the few things I can be proud of I would mention my C1 certificate in English and also me being accepted into the Scania YP programme which is what I am currently studying.
 
-But that's enough of school, let's talk about something more fun like mountainbiking! I really like mountainbiking because I can just pack some water and food and drive to another city or explore new country roads, not having to worry about running out of gas or making it in time at the train station. I'm pretty sure that when I get my drivers licence I won't be on my MTB so much but that's to be expected.
+I wasn't very popular nor accepted in elemantary/middle school (they are combined in Czechia), in high school not much has changed apart from us having some same interest. I'd say they treat me better here but it feels artifical. Since almost everyone in my class is far right oriented it's not very comfortable for me to be there however I got good at masking everything and sort of developed a second personality. Sad that I have to write something like this in 2025, how hard is it to accept that not everyone is the same.
 
-I got into web development through my good friend [Foxx](https://foxxeek.github.io/), he was making a game for a gamejam that a was hosted by a smaller you could say underground youtuber [Mr. Snailovitch](https://www.youtube.com/channel/UCuRH_90plMjyR3cZm7u6GEw), I wanted to help him but I'm not good at making sprites or art so I offered him to make a website, I thought that I could find a good web builder but of course, they're all paid so I had to learn HTML and CSS, the website is currently not being used as Foxx has his own website now. And that's how I got into web development.
+For the last few years I have been questioning everything from my sexuality to my gender, after all that time I kinda put it into a hiatus because even if I were trans transitioning would be really hard for me due to reasons from work to family. Nowdays I'd only really say I'm pansexual but even that would likely mean problems if I came out to anyone.
 
-If there's something else you would like to know about me then go ahead and contact me.
+Now a little note for any classmates, if you took the effort of finding and translating this could you not spread the last few sentences? Last thing I want is to not feel safe even a tiny bit at my dorm room as if it weren't bad enough already. Thanks.
